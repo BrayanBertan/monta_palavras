@@ -5,8 +5,11 @@
   que forem iguais aos passados pelo usuario, assim quando a palavra 
   tiver 0 letras sobrando significa que ela foi formada com sucesso.
 
-  Para executar o programa instale dart em https://dart.dev/tools/sdk/archive (Dart SDK version: 2.10.5 (stable))
-  entre na pasta do projeto e rode o comando 'dart main.dart'
+    Para executar o programa siga os passos abaixo:
+  instale dart em https://dart.dev/tools/sdk/archive (Dart SDK version: 2.10.5 (stable))
+  entre na pasta do projeto e rode:
+  'dart pub get' para garantir que esteja tudo certos com as dependencias
+  'dart main.dart' para executar o programa
 */
 
 import 'dart:io';
