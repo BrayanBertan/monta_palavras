@@ -1,0 +1,7 @@
+name: monta_palavra
+description:  app
+version: 0.0.1
+author: brayan
+
+dependencies:
+   diacritic: ^0.1.0

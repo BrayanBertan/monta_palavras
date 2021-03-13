@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "diacritic",
+      "rootUri": "file:///C:/Users/brayanbertan/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/diacritic-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "monta_palavra",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2021-03-13T01:10:23.969468Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.5"
+}
